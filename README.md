@@ -4,14 +4,23 @@ Require lgogdownloader: https://github.com/Sude-/lgogdownloader
 
 
 # Usage :
+
 Install [lgogdownloader](https://github.com/Sude-/lgogdownloader)
+
 Open a terminal
+
 `$ lgogdownloader --login`
+
 Complete the login process
+
 Create a folder where you want your games downloaded
+
 Put the scripts in it
+
 Open a terminal in this folder
+
 `$ ./GOG.sh`
+
 Done
 
 
@@ -23,12 +32,19 @@ Run GOG Check Orphans.sh when you want to see which files are safe to delete.
 GOG.sh :
 
 `--download` : Tell lgogdownloader to download
+
 `--include all` : Tell lgogdownloader to download everything (Installers, Extras, Patches, Language packs, DLCs)
+
 `--ignore-dlc-count` : Tell lgogdownloader to ingore the DLC count information provided by GOG (Ignoring DLC count information helps in situations where the account page doesn't provide accurate information about DLCs)
+
 `--no-platform-detection` : Tell lgogdownloader to ignore the supported platforms information provided by GOG and to directly detect it from the games details. (Useful in case platform identifier is missing for some games in the game shelf)
+
 `--platform w+l` : Tell lgogdownloader to download Windows (w) and Linux (l) installers
+
 `language en+fr` : Tell lgogdownloader to download English (en) and French (fr) installers
+
 `--save-changelogs` : Tell lgogdownloader to download the games changelogs
+
 `--save-serials` : Tell lgogdownloader to download the games serials
 
 
