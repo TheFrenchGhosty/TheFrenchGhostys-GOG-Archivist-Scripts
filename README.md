@@ -1,6 +1,6 @@
 # TheFrenchGhostys GOG Archivist Scripts
 
-Require lgogdownloader: https://github.com/Sude-/lgogdownloader
+**Require lgogdownloader: https://github.com/Sude-/lgogdownloader**
 
 
 # Usage :
@@ -29,7 +29,7 @@ Run GOG Check Orphans.sh when you want to see which files are safe to delete.
 
 # Details : 
 
-GOG.sh :
+**GOG.sh :**
 
 `--download` : Tell lgogdownloader to download
 
@@ -49,6 +49,6 @@ GOG.sh :
 
 
 
-GOG Check Orphans.sh :
+**GOG Check Orphans.sh :**
 
 `--check-orphans` : Tell lgogdownloader to check for files that are no longer on GOG servers (usually outdated files) and print a list containing them (I decided not to setup automatic deletion, because a script deleting files is always a bad idea)
