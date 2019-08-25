@@ -42,13 +42,13 @@ Run GOG Check Orphans.sh when you want to see which files are safe to delete.
 
 `--platform w+l` : Tell lgogdownloader to download Windows (w) and Linux (l) installers
 
-`language en` : Tell lgogdownloader to download the English (en) installers
+`--language en` : Tell lgogdownloader to download the English (en) installers
 
 `--save-changelogs` : Tell lgogdownloader to download the games changelogs
 
 `--save-serials` : Tell lgogdownloader to download the games serials
 
-`--xml-directory` : Tell lgogdownloader to create metadata in the folder `aaaMetadata` ("aaa" for it to appears first in any file manager)
+`--xml-directory 'aaaMetadata'` : Tell lgogdownloader to download the games metadata in the folder `aaaMetadata` ("aaa" for it to appears first in any file manager)
 
 
 
