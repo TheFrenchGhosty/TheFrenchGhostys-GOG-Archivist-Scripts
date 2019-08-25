@@ -36,7 +36,7 @@ Run GOG Check Orphans.sh when you want to see which files are safe to delete.
 
 `--include all` : Tell lgogdownloader to download everything (Installers, Extras, Patches, Language packs, DLCs)
 
-`--ignore-dlc-count` : Tell lgogdownloader to ingore the DLC count information provided by GOG (Ignoring DLC count information helps in situations where the account page doesn't provide accurate information about DLCs)
+`--ignore-dlc-count` : Tell lgogdownloader to ignore the DLC count information provided by GOG (Ignoring DLC count information helps in situations where the account page doesn't provide accurate information about DLCs)
 
 `--no-platform-detection` : Tell lgogdownloader to ignore the supported platforms information provided by GOG and to directly detect it from the games details. (Useful in case platform identifier is missing for some games in the game shelf)
 
