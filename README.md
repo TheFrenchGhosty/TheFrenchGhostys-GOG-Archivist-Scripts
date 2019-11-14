@@ -2,7 +2,7 @@
 
 **Require lgogdownloader: https://github.com/Sude-/lgogdownloader**
 
-A shell script to download everything you have on GOG.com
+The ultimate collection of scripts to download everything you bought on GOG.com
 
 # Usage :
 
