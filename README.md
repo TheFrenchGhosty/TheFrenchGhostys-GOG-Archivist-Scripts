@@ -10,10 +10,6 @@ Install [lgogdownloader](https://github.com/Sude-/lgogdownloader)
 
 Open a terminal
 
-`$ lgogdownloader --login`
-
-Complete the login process
-
 Create a folder where you want your games downloaded
 
 Put the scripts in it
@@ -21,6 +17,8 @@ Put the scripts in it
 Open a terminal in this folder
 
 `$ ./GOG.sh`
+
+Complete the login process
 
 Done
 
