@@ -25,8 +25,6 @@ Done
 
 Run GOG Check Orphans.sh when you want to see which files are safe to delete.
 
-**Warning:** If you added another language in the `GOG.sh` (for example: --language en+fr) `GOG Check Orphans.sh` will report non-english files as orphan, a workaround to this issue is to execute the content of your custom `GOG.sh` with `--save-config` added. See [this](https://github.com/Sude-/lgogdownloader/issues/161) lgogdownloader issue for more details.
-
 # Details : 
 
 **GOG.sh :**
