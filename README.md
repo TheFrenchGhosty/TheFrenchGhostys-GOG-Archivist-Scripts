@@ -4,6 +4,12 @@
 
 The ultimate collection of scripts to download everything you bought on GOG.com
 
+# About the slow to non-existent updates:
+
+As you can see, this project doesn't get a lot of updates, the reason is simple: this project is complete.
+
+I've been using it at least once a month since I created it, and it's just been doing what I want for months. 
+
 # Usage :
 
 Install [lgogdownloader](https://github.com/Sude-/lgogdownloader)
