@@ -44,19 +44,14 @@ Liberapay: https://liberapay.com/TheFrenchGhosty
 Ko-fi: https://ko-fi.com/TheFrenchGhosty
 
 Patreon: https://www.patreon.com/TheFrenchGhosty
-Note: Unlike Liberapay and Ko-Fi, Patreon takes a massive cut on donations: 8% fixed + 5% and 0.15€ (for donations of 3€ or less) - or - 3.4% and 0.35€ (for donations over 3€) only use it if you really can't/don't want to use the others.
 
 Bitcoin (BTC): [bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk](bitcoin:bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk)
 
 Monero (XMR): [44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6](monero:44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6)
 
-Ethereum (ETH): [0xD11eA4a29775b21DcAf707408E6771373D1d5af9](ethereum:0xD11eA4a29775b21DcAf707408E6771373D1d5af9)
-
 Litecoin (LTC): [ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7](litecoin:ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7)
 
 Wownero (WOW): [WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp](wownero:WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp)
-
-Bitcoin Cash (BCH): [qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2](bitcoincash:qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2)
 
 ---
 
