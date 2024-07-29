@@ -2,7 +2,7 @@
 
 <p align="center">The ultimate collection of scripts to download everything you bought on GOG.com</p>
 
-**Require lgogdownloader: https://github.com/Sude-/lgogdownloader**
+**Require lgogdownloader version 3.14 or above: https://github.com/Sude-/lgogdownloader**
 
 ---
 
